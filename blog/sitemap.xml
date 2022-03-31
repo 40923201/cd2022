@@ -4,64 +4,64 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2022-03-31T22:21:22-00:00</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/</loc>
+<lastmod>2022-03-31T22:43:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2022-03-31T22:21:22-00:00</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/archives.html</loc>
+<lastmod>2022-03-31T22:43:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2022-03-31T22:21:22-00:00</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/tags.html</loc>
+<lastmod>2022-03-31T22:43:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./categories.html</loc>
-<lastmod>2022-03-31T22:21:22-00:00</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/categories.html</loc>
+<lastmod>2022-03-31T22:43:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
+<loc>https://40923201.github.io/cd2022/blog/index.html/pages/about/</loc>
 <lastmod>2022-03-31T15:09:58+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./w6_40923201.html</loc>
-<lastmod>2022-03-31T22:15:38+08:00</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/w6_40923201.html</loc>
+<lastmod>2022-03-31T22:42:04+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/misc.html</loc>
-<lastmod>2022-03-31T22:15:38+08:06</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/category/misc.html</loc>
+<lastmod>2022-03-31T22:42:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/2022-spring-cd.html</loc>
-<lastmod>2022-03-31T22:15:38+08:06</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/tag/2022-spring-cd.html</loc>
+<lastmod>2022-03-31T22:42:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/40923201.html</loc>
-<lastmod>2022-03-31T22:15:38+08:06</lastmod>
+<loc>https://40923201.github.io/cd2022/blog/index.html/author/4092301.html</loc>
+<lastmod>2022-03-31T22:42:04+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
