@@ -72,7 +72,7 @@
 <t tx="leo.20170709224430.1">@language python
 import os
 
-os.system("pelican markdown -o blog -s publishconf.py")
+os.system("pelican markdown -o blog -s local_publishconf.py")
 g.es("admin pelican Github 執行完畢")
 
 
